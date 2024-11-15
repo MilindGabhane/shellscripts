@@ -7,6 +7,5 @@ read b
 echo "Hello value of a is $a and value of b is $b"
 echo "Do you understand the script?"
 
-echo "This is my second changes in Scripts2"
-echo "Please verify the changes and approve it"
-
+echo "This is my branch wise changes in Scripts2"
+echo "Approve the changes"
